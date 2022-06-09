@@ -1,4 +1,3 @@
-setting environment to py310
 Target Corporation operates as a general merchandise retailer in the United
 States. The company offers food assortments, including perishables, dry
 grocery, dairy, and frozen items; apparel, accessories, home decor products,
