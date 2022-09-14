@@ -1,0 +1,9 @@
+Planet Labs PBC designs, constructs, and launches constellations of satellites
+with the intent of providing high cadence geospatial data delivered to
+customers through an online platform worldwide. The company offers Open
+Geospatial Consortium, a cloud-native proprietary technology that performs
+critical processing and overall harmonizing of images for time series and data
+fusion and analysis; and space-based hardware and related software systems. It
+serves agriculture, mapping, forestry, and finance and insurance, as well as
+federal, state, and local government bodies. The company was incorporated in
+2010 and is headquartered in San Francisco, California.
