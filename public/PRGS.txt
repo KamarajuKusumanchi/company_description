@@ -1,0 +1,25 @@
+Progress Software Corporation develops, deploys, and manages business
+applications. The company offers OpenEdge, a development software, which builds
+multi-language applications for secure deployment across various platforms and
+devices, as well as cloud; developer tools that consists of components for user
+interface development for Web, mobile, desktop, chat, and AR/VR apps, as well
+as automated application testing and reporting tools; Sitefinity, a web content
+management and customer analytics platform; Corticon, a business rules
+management system that provides applications with decision automation and
+change process, and decision-related insight capabilities. It also offers
+DataDirect Connect, which provides data connectivity using industry-standard
+interfaces to connect applications running on various platforms; MOVEit that
+offers secure collaboration and automated file transfers of critical business
+information; Chef, an infrastructure automation platform to build, deploy,
+manage, and secure applications in multi-cloud and hybrid environments, and on-
+premises; and WhatsUp Gold, a network monitoring solution. In addition, the
+company provides Kemp LoadMaster, a load balancing solutions; and Kemp Flowmon
+network performance monitoring and diagnostic solutions that collect and
+analyze network telemetry from various sources. Further, it provides project
+management, implementation, custom development, programming, and other
+services, as well as web-enable applications; and training services. The
+company sells its products to end users, independent software vendors, original
+equipment manufacturers, and system integrators. It has operations in the
+United States, Canada, Latin America, Europe, the Middle East, Africa, and the
+Asia Pacific. The company was founded in 1981 and is headquartered in
+Burlington, Massachusetts.
