@@ -1,0 +1,7 @@
+---
+# Using the tip from
+# https://stackoverflow.com/questions/67059389/can-you-have-a-list-of-lists-in-a-properties-yml-file
+# to store list of lists
+- - grocery
+  - groceries
+...
