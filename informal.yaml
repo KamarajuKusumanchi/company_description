@@ -3,6 +3,8 @@ AA:
   - aluminum producer
 AAPL:
   - technology giant
+[ATVI, Activision Blizzard]:
+  - The videogame company
 [AYI, Acuity Brands]:
   - The lighting company
 BB:
@@ -19,6 +21,8 @@ JD:
 [JNJ, Johnson & Johnson]: The consumer-health giant
 LUMN:
   - telecommunication-services firm
+[LYFT, Lyft]:
+  - The ride-sharing company
 [MKC, McCormick]:
   - The spices and seasonings company
 MU:
@@ -39,10 +43,14 @@ PRGS:
   - The EV company
 [STZ, Constellation Brands]:
   - The alcoholic-beverage maker
+[TRIP, TripAdvisor]:
+  - The online travel company
 [TSLA, Tesla]:
   - The electric-car maker
 [TSN, Tyson Foods]:
   - meat giant
+[TTWO, Take-Two Interactive Software]:
+  - The game publisher
 [TWTW, Twitter]:
   - The social-media platform
 ...
