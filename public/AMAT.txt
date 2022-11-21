@@ -1,10 +1,10 @@
-Applied Materials, Inc. provides manufacturing equipment, services, and
-software to the semiconductor, display, and related industries. It operates
-through three segments: Semiconductor Systems, Applied Global Services, and
-Display and Adjacent Markets. The Semiconductor Systems segment develops,
-manufactures, and sells various manufacturing equipment that is used to
-fabricate semiconductor chips or integrated circuits. This segment also offers
-various technologies, including epitaxy, ion implantation,
+Applied Materials, Inc. engages in the provision of manufacturing equipment,
+services, and software to the semiconductor, display, and related industries.
+It operates through three segments: Semiconductor Systems, Applied Global
+Services, and Display and Adjacent Markets. The Semiconductor Systems segment
+develops, manufactures, and sells various manufacturing equipment that is used
+to fabricate semiconductor chips or integrated circuits. This segment also
+offers various technologies, including epitaxy, ion implantation,
 oxidation/nitridation, rapid thermal processing, physical vapor deposition,
 chemical vapor deposition, chemical mechanical planarization, electrochemical
 deposition, atomic layer deposition, etching, and selective deposition and
