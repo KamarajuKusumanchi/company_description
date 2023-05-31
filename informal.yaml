@@ -9,6 +9,8 @@ AAPL:
   - The lighting company
 BB:
   - Canada-based security software provider
+[BOX, Box]:
+  - cloud-based content-storage company
 [CAG, Conagra Brands]:
   - The packaged-foods company
 EMR:
@@ -16,6 +18,10 @@ EMR:
 [F, Ford Motor]:
   - The automobile maker
   - The car maker
+[HPQ, HP Inc]:
+  - PC maker
+[HPE, Hewlett Packard Enterprise]:
+  - provider of enterprise hardware, storage, and networking-infrastructure
 JD:
   - Chinese e-commerce company
 [JNJ, Johnson & Johnson]: The consumer-health giant
