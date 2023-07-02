@@ -2,14 +2,16 @@ DexCom, Inc., a medical device company, focuses on the design, development, and
 commercialization of continuous glucose monitoring (CGM) systems in the United
 States and internationally. The company provides its systems for use by people
 with diabetes, as well as for use by healthcare providers. Its products include
-DexCom G6, an integrated CGM system for diabetes management; Dexcom Real-Time
-API, which enables invited third-party developers to integrate real-time CGM
-data into their digital health applications and devices; Dexcom ONE, that is
-designed to replace finger stick blood glucose testing for diabetes treatment
-decisions; and Dexcom Share, a remote monitoring system. The company's products
-candidature comprises Dexcom G7, a next generation G7 CGM system. DexCom, Inc.
-has a collaboration and license agreement with Verily Life Sciences LLC and
-Verily Ireland Limited to develop blood-based or interstitial glucose
-monitoring products. The company markets its products directly to
-endocrinologists, physicians, and diabetes educators. DexCom, Inc. was
-incorporated in 1999 and is headquartered in San Diego, California.
+Dexcom G6 and Dexcom G7, integrated CGM systems for diabetes management; Dexcom
+Share, a remote monitoring system; Dexcom Real-Time API, which enables
+authorized third-party software developers to integrate real-time CGM data into
+their digital health apps and devices for specific and permitted use cases,
+including non-medical device applications, medical device data analysis,
+integrated continuous glucose monitoring systems (iCGM) secondary display
+alarms, active patient monitoring, and treatment decisions; and Dexcom ONE,
+that is designed to replace finger stick blood glucose testing for diabetes
+treatment decisions. DexCom, Inc. has a collaboration and license agreement
+with Verily Life Sciences LLC and Verily Ireland Limited to develop blood-based
+or interstitial glucose monitoring products. The company markets its products
+directly to endocrinologists, physicians, and diabetes educators. DexCom, Inc.
+was incorporated in 1999 and is headquartered in San Diego, California.
