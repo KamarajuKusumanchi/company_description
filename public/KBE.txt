@@ -1,0 +1,9 @@
+SPDR S&P Bank ETF seeks to provide investment results that, before fees and
+expenses, correspond generally to the total return performance of the S&P Banks
+Select Industry Index. The fund generally invests substantially all, but at
+least 80%, of its total assets in the securities comprising the index. The
+index represents the banks segment of the S&P Total Market Index (S&P TMI). The
+S&P TMI is designed to track the broad U.S. equity market. It may invest in
+equity securities that are not included in the index, cash and cash equivalents
+or money market instruments, such as repurchase agreements and money market
+funds.
