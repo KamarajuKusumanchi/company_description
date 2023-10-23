@@ -1,0 +1,7 @@
+iShares MSCI Japan ETF seeks to track the investment results of the MSCI Japan
+Index. The fund generally will invest at least 80% of its assets in the
+component securities of its underlying index and in investments that have
+economic characteristics that are substantially identical to the component
+securities of its underlying index. The underlying index is designed to measure
+the performance of the large- and mid-capitalization segments of the Japanese
+equity market.

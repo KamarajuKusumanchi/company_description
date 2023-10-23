@@ -1,9 +1,9 @@
-Digital Realty supports the world's leading enterprises and service providers
-by delivering the full spectrum of data center, colocation and interconnection
-solutions. PlatformDIGITALR, the company's global data center platform,
-provides customers a trusted foundation and proven Pervasive Datacenter
-Architecture PDxTM solution methodology for scaling digital business and
-efficiently managing data gravity challenges. Digital Realty's global data
-center footprint gives customers access to the connected communities that
-matter to them with more than 284 facilities in 48 metros across 23 countries
-on six continents.
+Digital Realty brings companies and data together by delivering the full
+spectrum of data center, colocation, and interconnection solutions.
+PlatformDIGITAL, the company's global data center platform, provides customers
+with a secure data "meeting place" and a proven Pervasive Datacenter
+Architecture (PDx) solution methodology for powering innovation and efficiently
+managing Data Gravity challenges. Digital Realty gives its customers access to
+the connected communities that matter to them with a global data center
+footprint of 300+ facilities in 50+ metros across 27 countries on six
+continents.

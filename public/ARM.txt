@@ -1,0 +1,16 @@
+Arm is defining the future of computing. We architect, develop, and license
+high-performance, low-cost, and energy-efficient CPU products and related
+technology, on which many of the worldas leading semiconductor companies and
+OEMs rely to develop their products. Our energy-efficient CPUs have enabled
+advanced computing in greater than 99% of the worldas smartphones, for the year
+ended December 31, 2022, and more than 250 billion chips, cumulatively,
+powering everything from the tiniest of sensors to the most powerful
+supercomputers. Today, Arm CPUs run the vast majority of the worldas software,
+including the operating systems and applications for smartphones, tablets and
+personal computers, data centers and networking equipment, and vehicles, as
+well as the embedded operating systems in devices such as smartwatches,
+thermostats, drones and industrial robotics. We estimate that approximately 70%
+of the worldas population uses Arm-based products, and the scale of Armas reach
+continues to expand, with more than 30 billion Arm-based chips reported as
+shipped in the fiscal year ended March 31, 2023 alone, representing an
+approximately 70% increase since the fiscal year ended March 31, 2016.
