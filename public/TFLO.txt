@@ -1,0 +1,8 @@
+iShares Treasury Floating Rate Bond ETF seeks to track the investment results
+of the Bloomberg U.S. Treasury Floating Rate Index is composed of U.S. Treasury
+floating rate bonds. The fund will invest at least 80% of its assets in the
+component securities of the underlying index and will invest at least 90% of
+its assets in U.S. Treasury securities that BFA believes will help the fund
+track the underlying index. The underlying index is a market capitalization-
+weighted index that measures the performance of floating rate public
+obligations of the U.S. Treasury.

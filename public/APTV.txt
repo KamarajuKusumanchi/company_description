@@ -1,15 +1,17 @@
-Aptiv PLC designs, manufacturers, and sells vehicle components worldwide. The
-company provides electrical, electronic, and safety technology solutions to the
-automotive and commercial vehicle markets. It operates in two segment, Signal
-and Power Solutions, and Advanced Safety and User Experience. The Signal and
-Power Solutions segment designs, manufactures, and assembles vehicle's
-electrical architecture, including engineered component products, connectors,
-wiring assemblies and harnesses, cable management products, electrical centers,
-and hybrid high voltage and safety distribution systems. The Advanced Safety
-and User Experience segment provides critical components, systems integration,
-and software development for vehicle safety, security, comfort, and
-convenience, such as sensing and perception systems, electronic control units,
-multi-domain controllers, vehicle connectivity systems, application software,
-and autonomous driving technologies. The company was formerly known as Delphi
-Automotive PLC and changed its name to Aptiv PLC in December 2017. Aptiv PLC
-was founded in 2011 and is based in Dublin, Ireland.
+Aptiv Plc is a technology and mobility architecture company, which engages in
+the business of designing and manufacturing vehicle components; providing
+electrical, electronic, and active safety technology solutions to the global
+automotive and commercial vehicle markets; and creating the software and
+hardware foundation for vehicle features and functionality. It operates under
+the Signal and Power Solutions; and Advanced Safety and User Experience
+segments. The Signal and Power Solutions segment focuses on the design,
+manufacture, and assembly of the vehicle's electrical architecture including
+engineered component products, connectors, wiring assemblies, harnesses, cable
+management, electrical centers, hybrid high voltage, and safety distribution
+systems. The Advanced Safety and User Experience segments is involved in
+critical technologies and services to enhance vehicle safety, security,
+comfort, and convenience including sensing and perception systems, electronic
+control units, multi-domain controllers, vehicle connectivity systems, cloud-
+native software platforms, application software, autonomous driving
+technologies, and end-to-end DevOps tools. The company was founded in 1994 and
+is headquartered in Dublin, Ireland.
