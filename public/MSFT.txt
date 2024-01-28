@@ -1,27 +1,29 @@
-Microsoft Corporation develops, licenses, and supports software, services,
-devices, and solutions worldwide. The company operates in three segments:
+Microsoft Corp. engages in the development and support of software, services,
+devices, and solutions. It operates through the following business segments:
 Productivity and Business Processes, Intelligent Cloud, and More Personal
-Computing. The Productivity and Business Processes segment offers Office,
-Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance,
-Microsoft Viva, and Skype for Business; Skype, Outlook.com, OneDrive, and
-LinkedIn; and Dynamics 365, a set of cloud-based and on-premises business
-solutions for organizations and enterprise divisions. The Intelligent Cloud
-segment licenses SQL, Windows Servers, Visual Studio, System Center, and
-related Client Access Licenses; GitHub that provides a collaboration platform
-and code hosting service for developers; Nuance provides healthcare and
-enterprise AI solutions; and Azure, a cloud platform. It also offers enterprise
-support, Microsoft consulting, and nuance professional services to assist
-customers in developing, deploying, and managing Microsoft server and desktop
-solutions; and training and certification on Microsoft products. The More
-Personal Computing segment provides Windows original equipment manufacturer
-(OEM) licensing and other non-volume licensing of the Windows operating system;
-Windows Commercial, such as volume licensing of the Windows operating system,
-Windows cloud services, and other Windows commercial offerings; patent
-licensing; and Windows Internet of Things. It also offers Surface, PC
-accessories, PCs, tablets, gaming and entertainment consoles, and other
-devices; Gaming, including Xbox hardware, and Xbox content and services; video
-games and third-party video game royalties; and Search, including Bing and
-Microsoft advertising. The company sells its products through OEMs,
-distributors, and resellers; and directly through digital marketplaces, online
-stores, and retail stores. Microsoft Corporation was founded in 1975 and is
-headquartered in Redmond, Washington.
+Computing. The Productivity and Business Processes segment consists of Office
+Commercial (Office 365 subscriptions, the Office 365 portion of Microsoft 365
+Commercial subscriptions, and Office licensed on-premises), Exchange,
+SharePoint, Microsoft Teams, Office 365 Security and Compliance, and Skype for
+Business, Office Consumer, including Microsoft 365 Consumer subscriptions,
+Office licensed on-premises, and other Office services, LinkedIn, including
+Talent Solutions, Marketing Solutions, Premium Subscriptions, Sales Solutions,
+and Learning Solutions, Dynamics business solutions, including Dynamics 365,
+comprising a set of intelligent, cloud-based applications across ERP, CRM,
+Customer Insights, Power Apps, and Power Automate, and on-premises ERP and CRM
+applications. The Intelligent Cloud segment consists of Server products and
+cloud services, including Azure and other cloud services, SQL Server, Windows
+Server, Visual Studio, System Center, and related Client Access Licenses
+(CALs), and Nuance and GitHub, Enterprise Services, including Enterprise
+Support Services, Microsoft Consulting Services, and Nuance professional
+services. The More Personal Computing segment consists of Windows, including
+Windows OEM licensing and other non-volume licensing of the Windows operating
+system, Windows Commercial, comprising volume licensing of the Windows
+operating system, Windows cloud services, and other Windows commercial
+offerings, patent licensing, and Windows Internet of Things, Devices, including
+Surface and PC accessories, Gaming, including Xbox hardware and Xbox content
+and services, comprising digital transactions, Xbox Game Pass and other
+subscriptions, video games, third-party video game royalties, cloud services,
+and advertising, Search and news advertising. The company was founded by Paul
+Gardner Allen and William Henry Gates, III in 1975 and is headquartered in
+Redmond, WA.
