@@ -1,0 +1,9 @@
+Marvell Technology, Inc. engages in the design, development, and sale of
+integrated circuits. Its products include data processing units, security
+solutions, automotive, coherent DSP, DCI optical modules, ethernet controllers,
+ethernet PHYs, ethernet switches, linear driver, PAM DSP, transimpedance
+amplifiers, fibre channel, HDD, SSD controller, storage accelerators, ASIC, and
+Marvell government solutions. It operates through the following geographical
+segments: United States, Singapore, Israel, India, China, and Others. The
+company was founded by Wei Li Dai and Pantas Sutardja in 1995 and is
+headquartered in Wilmington, DE.
