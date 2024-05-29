@@ -1,11 +1,11 @@
-Virtu Financial, Inc., a financial services company in New York. The company
-operates through two segments, Market Making and Execution Services. Its
-product suite includes offerings in execution, liquidity sourcing, analytics
-and broker-neutral, and multi-dealer platforms in workflow technology. The
-company's solutions enable clients to trade on various venues across countries
-and in multiple asset classes, including global equities, ETFs, foreign
-exchange, futures, fixed income, cryptocurrencies, and other commodities. Its
-analytics platform provides a range of pre- and post-trade services, data
-products, and compliance tools for clients to invest, trade, and manage risk
-across markets. The company was founded in 2008 and is headquartered in New
-York, New York.
+Virtu Financial, Inc. engages in the provision of trading solutions and
+liquidity services. It operates through the following segments: Market Making,
+Execution Services and Corporate. The Market Making segment involves the cash,
+futures, and options markets across global equities, fixed income, currencies,
+cryptocurrencies, and commodities. The Execution Services segment includes
+agency-based, execution-only trading, workflow technology, and trading
+analytics. The Corporate segment consists of investments in financial services-
+oriented opportunities and maintains corporate overhead expenses and all other
+income and expenses that are not attributable to the other segments. The
+company was founded by Vincent J. Viola and Douglas A. Cifu in 2008 and is
+headquartered in New York, NY.

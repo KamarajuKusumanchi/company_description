@@ -1,24 +1,7 @@
-Broadcom Inc. designs, develops, and supplies various semiconductor devices
-with a focus on complex digital and mixed signal complementary metal oxide
-semiconductor based devices and analog III-V based products worldwide. The
-company operates in two segments, Semiconductor Solutions and Infrastructure
-Software. It provides set-top box system-on-chips (SoCs); cable, digital
-subscriber line, and passive optical networking central office/consumer premise
-equipment SoCs; wireless local area network access point SoCs; Ethernet
-switching and routing merchant silicon products; embedded processors and
-controllers; serializer/deserializer application specific integrated circuits;
-optical and copper, and physical layers; and fiber optic transmitter and
-receiver components. The company also offers RF front end modules, filters, and
-power amplifiers; Wi-Fi, Bluetooth, and global positioning system/global
-navigation satellite system SoCs; custom touch controllers; serial attached
-small computer system interface, and redundant array of independent disks
-controllers and adapters; peripheral component interconnect express switches;
-fiber channel host bus adapters; read channel based SoCs; custom flash
-controllers; preamplifiers; and optocouplers, industrial fiber optics, and
-motion control encoders and subsystems. Its products are used in various
-applications, including enterprise and data center networking, home
-connectivity, set-top boxes, broadband access, telecommunication equipment,
-smartphones and base stations, data center servers and storage systems, factory
-automation, power generation and alternative energy systems, and electronic
-displays. Broadcom Inc. was incorporated in 2018 and is headquartered in San
-Jose, California.
+Broadcom Inc. is a global technology company, which designs, develops, and
+supplies semiconductors and infrastructure software solutions. It operates
+through the Semiconductor Solutions and Infrastructure Software segments. The
+Semiconductor Solutions segment refers to product lines and intellectual
+property licensing. The Infrastructure Software segment relates to mainframe,
+distributed and cyber security solutions, and the FC SAN business. The company
+was founded in 1961 and is headquartered in Palo Alto, CA.
