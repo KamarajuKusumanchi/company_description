@@ -1,0 +1,5 @@
+AppLovin Corp. engages in the development and operation of a mobile marketing
+platform. It offers AppDiscovery, MAX, Adjust, and SparkLabs. Its software-
+based platform caters to mobile application developers to improve the marketing
+and monetization of applications. The company was founded by Andrew Karam, John
+Krystynak, and Adam Foroughi in 2011 and is headquartered in Palo Alto, CA.

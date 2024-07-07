@@ -1,0 +1,6 @@
+Datadog, Inc. engages in the development of a monitoring and analytics platform
+for developers, information technology operations teams and business users. Its
+platform integrates and automates infrastructure monitoring, application
+performance monitoring and log management to provide real-time observability of
+its customers' entire technology stack. The company was founded by Olivier
+Pomel and Alexis Le-Quoc on June 4, 2010, and is headquartered in New York, NY.

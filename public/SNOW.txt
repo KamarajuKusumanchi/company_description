@@ -1,0 +1,15 @@
+Snowflake, Inc. provides cloud data warehousing software. This includes the
+Data Cloud, an ecosystem where Snowflake customers, partners, data providers,
+and data consumers can break down data silos and derive value from rapidly
+growing data sets in secure, governed, and compliant ways. Its platform
+supports a range of use cases, including data warehousing, data lakes, data
+engineering, data science, data application development, and data sharing. The
+cloud-native architecture consists of three independently scalable layers
+across storage, compute, and cloud services. The storage layer ingests massive
+amounts and varieties of structured and semi-structured data to create a
+unified data record. The compute layer provides dedicated resources to enable
+users to simultaneously access common data sets for many use cases without
+latency. The cloud services layer optimizes each use case's performance
+requirements with no administration. Snowflake was founded by Marcin Zukowski,
+Thierry Cruanes and Benoit Dageville on July 23, 2012 and is headquartered in
+Bozeman, MT.
