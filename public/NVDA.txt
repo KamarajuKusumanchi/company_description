@@ -1,14 +1,16 @@
 NVIDIA Corp. engages in the design and manufacture of computer graphics
 processors, chipsets, and related multimedia software. It operates through the
-following segments: Graphics Processing Unit (GPU), Tegra Processor, and All
-Other. The GPU segment consists of product brands, including GeForce for
-gamers, Quadro for designers, Tesla and DGX for AI data scientists and big data
-researchers, and GRID for cloud-based visual computing users. The Tegra
-Processor segment integrates an entire computer onto a single chip and
-incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous
-robots, drones, and cars, as well as for consoles and mobile gaming and
-entertainment devices. The All Other segment refers to the stock-based
-compensation expense, corporate infrastructure and support costs, acquisition-
-related costs, legal settlement costs, and other non-recurring charges. The
-company was founded by Jen Hsun Huang, Chris A. Malachowsky, and Curtis R.
-Priem in April 1993 and is headquartered in Santa Clara, CA.
+following segments: Graphics Processing Unit (GPU) and Compute & Networking.
+The Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW
+game streaming service and related infrastructure, Quadro and NVIDIA RTX GPUs
+for enterprise workstation graphics, virtual GPU, or vGPU, software for cloud-
+based visual and virtual computing, automotive platforms for infotainment
+systems, and Omniverse Enterprise software for building and operating metaverse
+and 3D internet applications. The Compute & Networking segment consists of Data
+Center accelerated computing platforms and end-to-end networking platforms
+including Quantum for InfiniBand and Spectrum for Ethernet, NVIDIA DRIVE
+automated-driving platform and automotive development agreements, Jetson
+robotics and other embedded platforms, NVIDIA AI Enterprise and other software,
+and DGX Cloud software and services. The company was founded by Jen Hsun Huang,
+Chris A. Malachowsky, and Curtis R. Priem in April 1993 and is headquartered in
+Santa Clara, CA.
