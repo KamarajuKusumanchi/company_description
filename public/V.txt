@@ -1,17 +1,7 @@
-Visa Inc. operates as a payments technology company worldwide. The company
-operates VisaNet, a transaction processing network that enables authorization,
-clearing, and settlement of payment transactions. It also offers credit, debit,
-and prepaid card products; tap to pay, tokenization, click to pay; Visa Direct,
-a real-time payments network; Visa B2B Connect, a multilateral B2B cross-border
-payments network; Visa Treasury as a Service, a cross-border consumer payments
-business; and Visa DPS that provides a range of value added services, including
-fraud mitigation, dispute management, data analytics, campaign management, a
-suite of digital solutions, and contact center services. Further, the; company
-provides Cybersource, a payment management platform; and risk and identity
-solutions, such as Visa Advanced Authorization, Visa Secure, Visa Advanced
-Identity Score, and Visa Consumer Authentication Service; and Visa Consulting
-and Analytics, a payments consulting advisory services. It provides its
-services under the Visa, Visa Electron, Interlink, VPAY, and PLUS brands. The
-company serves consumers, merchants, financial institutions, and government
-entities. Visa Inc. was founded in 1958 and is headquartered in San Francisco,
-California.
+Visa, Inc. engages in the provision of digital payment services. It also
+facilitates global commerce through the transfer of value and information among
+a global network of consumers, merchants, financial institutions, businesses,
+strategic partners, and government entities. It offers debit cards, credit
+cards, prepaid products, commercial payment solutions, and global automated
+teller machines. The company was founded by Dee Hock in 1958 and is
+headquartered in San Francisco, CA.
